@@ -1,0 +1,128 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* GraphicalSubtraction */ = {
+		activeExec = 0;
+		executables = (
+			C9A00BCD11A2313900A6BA38 /* GraphicalSubtraction */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C9A00BCD11A2313900A6BA38 /* GraphicalSubtraction */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GraphicalSubtraction */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GraphicalSubtraction */,
+		);
+		codeSenseManager = C9A00BE211A2314300A6BA38 /* Code sense */;
+		executables = (
+			C9A00BCD11A2313900A6BA38 /* GraphicalSubtraction */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					357,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 295842105;
+			PBXWorkspaceStateSaveDate = 295842105;
+		};
+		perUserProjectItems = {
+			C9A00BEA11A2318B00A6BA38 /* PBXBookmark */ = C9A00BEA11A2318B00A6BA38 /* PBXBookmark */;
+			C9A00C8711A25ADE00A6BA38 /* PBXTextBookmark */ = C9A00C8711A25ADE00A6BA38 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C9A00BE111A2314300A6BA38 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C9A00BCD11A2313900A6BA38 /* GraphicalSubtraction */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GraphicalSubtraction;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C9A00BE111A2314300A6BA38 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C9A00BE211A2314300A6BA38 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C9A00BE711A2317200A6BA38 /* GraphicalSubtractionView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1076, 916}}";
+			sepNavSelRange = "{280, 0}";
+			sepNavVisRange = "{0, 287}";
+			sepNavWindowFrame = "{{15, 68}, {1123, 990}}";
+		};
+	};
+	C9A00BE811A2317200A6BA38 /* GraphicalSubtractionView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {892, 3682}}";
+			sepNavSelRange = "{2542, 0}";
+			sepNavVisRange = "{1468, 2551}";
+			sepNavWindowFrame = "{{350, 68}, {939, 990}}";
+		};
+	};
+	C9A00BEA11A2318B00A6BA38 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C9A00BE811A2317200A6BA38 /* GraphicalSubtractionView.m */;
+	};
+	C9A00C8711A25ADE00A6BA38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9A00BE811A2317200A6BA38 /* GraphicalSubtractionView.m */;
+		name = "GraphicalSubtractionView.m: 97";
+		rLen = 0;
+		rLoc = 2542;
+		rType = 0;
+		vrLen = 2551;
+		vrLoc = 1468;
+	};
+}
